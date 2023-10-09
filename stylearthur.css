@@ -1,3 +1,10 @@
-p{
+body {
+    background: cccccc;
+}
+
+p {
     text-align: center;
+}
+em strong{
+    color:red;
 }
