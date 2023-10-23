@@ -1,5 +1,5 @@
 body {
-    background: cccccc;
+    background: #cccccc;
 }
 h1{
     text-align: center;
@@ -12,4 +12,7 @@ em strong{
 }
 #missao {
     font-size: 20px;
+}
+#banner{
+    width: 100%;
 }
