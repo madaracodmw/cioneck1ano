@@ -24,9 +24,23 @@ em strong{
 .beneficios{
     background: #ffffff  
 }
+.beneficios{
+    width: 50%;
+}
 h2 {
     text-align: center;   
 }
 .itens {
     font-size: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+}
+.titulo-principal {
+    padding-left: 20px;
+}
+.titulo-centralizado {
+    text-align: center;
 }
